@@ -1,2 +1,2 @@
 # google-play-data
-Jupyter Notebook, pandas, numpy, matplotlib, csv from kaggle.com
+Used a Jupyter Notebook, pandas, numpy, and matplotlib to clean and perform exploratory analysis of data from Google Play Store. Please use https://nbviewer.jupyter.org/ to view.
