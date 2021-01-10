@@ -1,2 +1,2 @@
 # google-play-data
-Used a Jupyter Notebook, pandas, numpy, and matplotlib to clean and perform exploratory analysis of data from Google Play Store. Please use https://nbviewer.jupyter.org/ to view.
+Used a Jupyter Notebook, pandas, numpy, and matplotlib to clean and perform exploratory analysis of data from Google Play Store. 
